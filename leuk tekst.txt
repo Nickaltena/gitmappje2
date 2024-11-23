@@ -6,3 +6,10 @@ Cause you're  all of me
 func(leuk):
 
 Ik voeg deze functie toe in dit document.
+
+
+func(televisie):
+
+kijk televisie
+
+YES
