@@ -2,3 +2,7 @@ Wat een moeite dit met github
 This ain't love
 Stay with poopoo
 Cause you're  all of me
+
+func(leuk):
+
+Ik voeg deze functie toe in dit document.
