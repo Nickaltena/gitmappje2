@@ -11,3 +11,5 @@ Ik voeg deze functie toe in dit document.
 func(televisie):
 
 kijk televisie
+
+YES
